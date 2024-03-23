@@ -1,0 +1,10 @@
+C:\Users\Mercy\Desktop\SS\SS\bin\x64\Release\SS.exe.config
+C:\Users\Mercy\Desktop\SS\SS\bin\x64\Release\SS.exe
+C:\Users\Mercy\Desktop\SS\SS\bin\x64\Release\SS.pdb
+C:\Users\Mercy\Desktop\SS\SS\obj\x64\Release\SS.csproj.AssemblyReference.cache
+C:\Users\Mercy\Desktop\SS\SS\obj\x64\Release\SS.Form1.resources
+C:\Users\Mercy\Desktop\SS\SS\obj\x64\Release\SS.Properties.Resources.resources
+C:\Users\Mercy\Desktop\SS\SS\obj\x64\Release\SS.csproj.GenerateResource.cache
+C:\Users\Mercy\Desktop\SS\SS\obj\x64\Release\SS.csproj.CoreCompileInputs.cache
+C:\Users\Mercy\Desktop\SS\SS\obj\x64\Release\SS.exe
+C:\Users\Mercy\Desktop\SS\SS\obj\x64\Release\SS.pdb
